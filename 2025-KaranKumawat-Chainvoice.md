@@ -153,7 +153,7 @@ PR #8: [Introduced Pre-Filled Invoice Links for Seamless Invoice Creation](https
 
 PR #9: [Enhanced User Experience with Advanced Token Selection Interface](https://github.com/StabilityNexus/Chainvoice/pull/9)  
 
-PR #10: [Batch Invoice Processing for Efficient Payment Handling](https://github.com/StabilityNexus/Chainvoice/pull/9)
+PR #10: [Batch Invoice Processing for Efficient Payment Handling](https://github.com/StabilityNexus/Chainvoice/pull/10)
 
 ## Challenges and Solutions
 ### 1. Encryption Implementation Complexity
