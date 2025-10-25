@@ -106,6 +106,7 @@ Maelstrom introduces a novel price discovery mechanism based on the volume of bu
 - [#2](https://github.com/StabilityNexus/Maelstrom-WebUI/pull/2): End-to-End blockchain Integration
 - [#3](https://github.com/StabilityNexus/Maelstrom-WebUI/pull/3): Resolved Next.js Server build failures
 - [#4](https://github.com/StabilityNexus/Maelstrom-WebUI/pull/4): Additional UI/UX changes based on feedback
+- [#5](https://github.com/StabilityNexus/Maelstrom-WebUI/pull/5): Multi-Chain support, Token-List integration & updated Price-Chart
 
 ### Maelstrom-Solidity
 - [#1](https://github.com/StabilityNexus/Maelstrom-Solidity/pull/1): Contract first draft
